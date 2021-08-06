@@ -1,8 +1,7 @@
 {
-  "name": "codeceptjs-rest-demo",
+  "name": "api-test-codeceptjs",
   "version": "1.0.0",
-  "description": "CodeceptJS demo project with REST helper",
-  "main": "api_test.js",
+  "description": "API end to end testes with CodeceptJS",
   "scripts": {
     "clean": "rimraf output",
     "def": "codeceptjs def",
