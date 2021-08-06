@@ -14,7 +14,7 @@
     "codeceptjs",
     "rest"
   ],
-  "author": "peterngtr",
+  "author": "alecsandrobs",
   "license": "ISC",
   "devDependencies": {
     "codeceptjs": "3.0.4",
